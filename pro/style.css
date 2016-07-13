@@ -1,0 +1,67 @@
+<style>
+
+body{
+	padding:32px;
+	border:16px;
+	background-color:#fff;
+}
+  
+  #header {
+    background-color:darkgreen;
+    color:white;
+    text-align:center;
+    padding:30px;
+   
+}
+
+nav {
+    background-color:darkgrey;
+    margin:15px;
+    width:100px;
+    float:left;
+    padding:15px; 
+}
+section
+{
+	background-color:darkgrey;
+    width:350px;
+    margin:15px;
+    float:left;
+    padding:50px; 
+	text-align: center
+}
+
+ul#menu li {
+    display:inline;
+    font-size: 20px;
+}
+button {
+    
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.btn-1{
+	border:none;
+	background:green;
+	border:5px solid darkgreen;
+	color:#fff;
+	height:40px;width:40px;
+	border-radius:50%;
+	outline:none;
+}
+
+.btn-2{
+	border:none;
+	background:red;
+	border:5px solid darkred;
+	color:#fff;
+	height:40px;width:40px;
+	border-radius:50%;
+	outline:none
+</style>
+
