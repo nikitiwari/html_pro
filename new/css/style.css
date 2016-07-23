@@ -27,6 +27,12 @@ a{
 img{
 	height:90px;
 }
+section.ex2{
+	font-size:40px;
+	text-align: center;
+	}
+section.ex2:hover, div.ex2:active {font-size: 500%;
+}
 p#p03
 {
 	text-align:center;
